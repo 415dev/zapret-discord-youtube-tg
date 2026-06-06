@@ -1,0 +1,16 @@
+/utils/test results
+/utils/game_filter.enabled
+/utils/tgproxy.conf
+/utils/lists.conf
+/lists/ipset-exclude-user.txt
+/lists/list-general-user.txt
+/lists/list-exclude-user.txt
+/lists/list-active.txt
+
+.vscode/
+/build/
+
+/tg-ws-proxy-main/build/
+/tg-ws-proxy-main/dist/
+/bin/tgwsproxy.log
+service.bat.bak
