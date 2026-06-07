@@ -1,3 +1,6 @@
 twitch-dj.ru
 twitch-kraken.cc
 www.twitch-dj.ru
+twitchcdn.net
+ext-twitch.tv
+assets.twitch.tv
