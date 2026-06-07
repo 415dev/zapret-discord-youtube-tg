@@ -31,3 +31,6 @@ instagramtakiphilesi.com
 instagramtips.com
 instagramtr.com
 instagram.feed.com
+m.instagram.com
+graph.instagram.com
+i.instagram.com
