@@ -149,7 +149,7 @@ sc delete название_из_первого_шага
 
 Но помните, что при включении `ipset any` появятся проблемы с открытием многих сайтов. Чтобы этого избежать, не используйте `ipset any` на постоянной основе. Вместо этого нужно выяснить все IP адреса, которые используются игрой, и добавить их в `ipset-all.txt`
 
-Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/Flowseal/zapret-discord-youtube/discussions) (не в issues) и ждите помощи от других игроков.
+Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/415dev/zapret-discord-youtube-tg/discussions) (не в issues) и ждите помощи от других игроков.
 
 ### Не нашли своей проблемы
 
@@ -168,18 +168,20 @@ sc delete название_из_первого_шага
 
 Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
 
-<!-- ## ⚖️Лицензирование
+<a href="https://star-history.com/#415dev/zapret-discord-youtube-tg&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=415dev/zapret-discord-youtube-tg&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=415dev/zapret-discord-youtube-tg&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=415dev/zapret-discord-youtube-tg&type=Date" />
+ </picture>
+</a>
 
-Проект распространяется на условиях лицензии [MIT]() -->
+## ⚖️Лицензирование
 
-<!-- ## 🩷Благодарность участникам проекта
+Проект распространяется на условиях лицензии [MIT](https://github.com/415dev/zapret-discord-youtube-tg/blob/main/LICENSE.txt)
 
-[![Contributors]()]() -->
+## 🩷Благодарность участникам проекта
+
+[![Contributors](https://contrib.rocks/image?repo=415dev/zapret-discord-youtube-tg)](https://github.com/415dev/zapret-discord-youtube-tg/graphs/contributors)
 
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
-
-
-
-
-
-
