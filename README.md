@@ -153,7 +153,7 @@ sc delete название_из_первого_шага
 
 ### Не нашли своей проблемы
 
-- Создайте её [тут](https://github.com/Flowseal/zapret-discord-youtube/issues)
+- Создайте её [тут](https://github.com/415dev/zapret-discord-youtube-tg/issues)
 
 ## 🗒️Добавление адресов прочих ресурсов
 
