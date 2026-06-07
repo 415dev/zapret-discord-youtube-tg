@@ -175,3 +175,12 @@ rbxcdn.dev
 rbxcdn.io
 roblox.qq.com
 roblox.cn
+rover.link
+rblx.media
+rblx.clothing
+rblx.name
+rblx.games
+rblx.social
+roblox-api.arkoselabs.com
+cdn.arkoselabs.com
+rbxtrk.com
