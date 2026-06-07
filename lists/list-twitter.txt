@@ -18,3 +18,6 @@ pbs.twimg.com
 platform.twitter.com
 twitter.lurkmore.com
 video.twimg.com
+api.x.com
+api.tweetdeck.com
+t.co
