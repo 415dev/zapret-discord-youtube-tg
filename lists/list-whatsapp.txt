@@ -24,3 +24,14 @@ b.ns.whatsapp.net
 c.ns.whatsapp.net
 d.ns.whatsapp.net
 a.ns.whatsapp.net
+s.whatsapp.net
+s1.whatsapp.net
+s2.whatsapp.net
+s3.whatsapp.net
+s4.whatsapp.net
+s5.whatsapp.net
+s6.whatsapp.net
+s7.whatsapp.net
+s8.whatsapp.net
+s9.whatsapp.net
+s10.whatsapp.net
